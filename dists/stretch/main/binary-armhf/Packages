@@ -64,3 +64,19 @@ Description: Intel Movidius Neural Compute SDK
  .
  This package is Python API wrapper.
 
+Package: tinyyolo
+Version: 20170816
+Architecture: all
+Maintainer: Bofu Chen (bafu) <bafuchen@gmail.com>
+Installed-Size: 63204
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/t/tinyyolo/tinyyolo_20170816_all.deb
+Size: 59419896
+SHA256: 136fdd60f486c892062e7286cb002a85087e3f3ce6c40644260416ffe6f2fb8b
+SHA1: 3c4a9afcd38db849ccfe0cc60c1a06e2933ec09a
+MD5sum: e618ecc02cfe254660c4e7880abdaec6
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
