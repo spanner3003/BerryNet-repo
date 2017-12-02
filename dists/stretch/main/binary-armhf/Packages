@@ -1,0 +1,66 @@
+Package: ncsdk
+Version: 1.10.01.01-1
+Architecture: armhf
+Maintainer: Bofu Chen <bofu@dt42.io>
+Installed-Size: 1147
+Homepage: https://github.com/movidius/ncsdk
+Priority: optional
+Section: unknown
+Filename: pool/main/n/ncsdk/ncsdk_1.10.01.01-1_armhf.deb
+Size: 328822
+SHA256: fe5dabc0f7a9851982e33efa9933fb41f29b9fd0215460922861cf1ad0481ebf
+SHA1: fa72e202e759783b9c30030c0032d896219d7e27
+MD5sum: 8e4af5e53faee49789e0fc18955aa4e6
+Description: Software Development Kit for the Neural Compute Stick
+ This Intel Movidius Neural Compute software developer kit (NCSDK) is
+ provided for users of the Intel Movidius Neural Compute Stick (Intel
+ Movidius NCS). It includes software tools, an API, and examples, so
+ developers can create software that takes advantage of the accelerated
+ neural network capability provided by the Intel Movidius NCS hardware.
+
+Package: python-mvnc
+Source: mvnc
+Version: 1.10.01.00
+Architecture: armhf
+Maintainer: Bofu Chen <bofu@dt42.io>
+Installed-Size: 29
+Homepage: https://github.com/movidius/ncsdk
+Priority: optional
+Section: python
+Filename: pool/main/m/mvnc/python-mvnc_1.10.01.00_armhf.deb
+Size: 5302
+SHA256: 72383731706d0dfe89dc4003dc648ca71aff1aa631ab473623905ab837b5bf3b
+SHA1: 4e0553b46e6b9231da44c0041b5e5a5db9d9833b
+MD5sum: a8622111c50cbc3ec1ee039c18f7daa0
+Description: Intel Movidius Neural Compute SDK
+ This Intel Movidius Neural Compute software developer kit (NCSDK) is
+ provided for users of the Intel Movidius Neural Compute Stick (Intel
+ Movidius NCS). It includes software tools, an API, and examples, so
+ developers can create software that takes advantage of the accelerated
+ neural network capability provided by the Intel Movidius NCS hardware.
+ .
+ This package is Python API wrapper.
+
+Package: python3-mvnc
+Source: mvnc
+Version: 1.10.01.00
+Architecture: armhf
+Maintainer: Bofu Chen <bofu@dt42.io>
+Installed-Size: 29
+Homepage: https://github.com/movidius/ncsdk
+Priority: optional
+Section: python
+Filename: pool/main/m/mvnc/python3-mvnc_1.10.01.00_armhf.deb
+Size: 5390
+SHA256: 3e613d828ee6fc9b86c6c7fa63ffd77782571f8058a64a006960fa1db2f7d08d
+SHA1: e139886fbd15deb664c0ee762ca91207786f48bf
+MD5sum: 459d13cdda5e5d0330d07673209085ec
+Description: Intel Movidius Neural Compute SDK
+ This Intel Movidius Neural Compute software developer kit (NCSDK) is
+ provided for users of the Intel Movidius Neural Compute Stick (Intel
+ Movidius NCS). It includes software tools, an API, and examples, so
+ developers can create software that takes advantage of the accelerated
+ neural network capability provided by the Intel Movidius NCS hardware.
+ .
+ This package is Python API wrapper.
+

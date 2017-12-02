@@ -1,0 +1,8 @@
+Origin: github.com/DT42/BerryNet-repo
+Label: github.com/DT42/BerryNet-repo
+Suite: stable
+Codename: stretch
+Architectures: armhf
+Components: main
+Description: BerryNet package repository
+SignWith: 3FB8B4C2
