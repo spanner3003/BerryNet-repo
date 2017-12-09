@@ -1,3 +1,19 @@
+Package: inception-movidius
+Version: 3
+Architecture: all
+Maintainer: Bofu Chen <bofu@dt42.io>
+Installed-Size: 53083
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/i/inception-movidius/inception-movidius_3_all.deb
+Size: 48863526
+SHA256: 9e85f7cb81255c1b44516712e9eaf24574ae10030a5e7561b738cee59cc8f90b
+SHA1: acaf292a342881cbd86b244ba9afaeac1aad92af
+MD5sum: 0dbf8bf7e1c2053a7690ba99103b57bb
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
 Package: ncsdk
 Version: 1.10.01.01-1
 Architecture: armhf

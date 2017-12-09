@@ -5,36 +5,36 @@ Origin: github.com/DT42/BerryNet-repo
 Label: github.com/DT42/BerryNet-repo
 Suite: stable
 Codename: stretch
-Date: Sat, 02 Dec 2017 15:13:27 UTC
+Date: Sat, 09 Dec 2017 13:51:45 UTC
 Architectures: armhf
 Components: main
 Description: BerryNet package repository
 MD5Sum:
- 117c7a4168858038342a592c8ce3759c 3156 main/binary-armhf/Packages
- d99be6f497e6c3b16af435e056457300 1076 main/binary-armhf/Packages.gz
+ 1c2259eee760b5ca5676cf58ddc5e97e 3702 main/binary-armhf/Packages
+ 12c4ec5d66cfa0c7b4add7b39fb1ace6 1211 main/binary-armhf/Packages.gz
  1a537e9111a97370ecd1ec97a543cf07 168 main/binary-armhf/Release
 SHA1:
- 940d5e33ecc33c4bcca2b8579d9b059f0ff17ca1 3156 main/binary-armhf/Packages
- 91542a2e92035ea0474758759e66c2219892fc57 1076 main/binary-armhf/Packages.gz
+ 8e1d34f819a87ce265f65a354e88b461a11cd9a4 3702 main/binary-armhf/Packages
+ cc94bd2cea52a9afacb9685116ac4d5c531e8e79 1211 main/binary-armhf/Packages.gz
  b34f05ad4d5c7c35717104d7414a962d3002ca67 168 main/binary-armhf/Release
 SHA256:
- 7a5ec76f9c7674ed35a9e635e8a99a3c25bc6f5aafda0c5bb4a2fc6dbacc8a7c 3156 main/binary-armhf/Packages
- e313211fd743d3334798765b707ca99b2720b1e4d3e7f1ac4842431e2efa79c0 1076 main/binary-armhf/Packages.gz
+ e63967425b414c0456e44dc2d1a569cefbf45d2db25bf4a623feac8c1d51e0a6 3702 main/binary-armhf/Packages
+ 84728658e83eecf67546c3697f460fa5cd5a1f13bd927d67b6633ef03a567025 1211 main/binary-armhf/Packages.gz
  122d21fc447023e4d06f11864e476d4593e4ca4a7a14bf6069570c8e0648a738 168 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJaIsMbAAoJEKMhGofXrP4jNpoQALy0dafAV9C731eTQ/vwSbRc
-aLKPVd+1GYmD12zz/y8G/x86cFyC7i3x5TLJdER80Tc/npVWlgkYXZ8GFOQ+FSDZ
-y8OnSVivVt/MF9a/C5u0wW6s20HUMgxOU5zAMWd1QJGGDnd5/3hjilWPVgy8LyQN
-DWUYO9cHDRAx+dHkjcrJ89ef5r5QO5Mpm1+z7fxz7Fhc0UkI4z40K9YcPQvno5hT
-VfOF8SyCLiuzcvqJB0RbZUqXYOVMyAziWG10K1uk/+C6R7iiew4DA0zSMb0UFzNc
-5JPuA0/CSXhdOmUjgi9PI/KYIjN3K7O/y1OBwTi7ss4aVMnvI6JZ1FfRui0Akzib
-SXqW90plqaReVDUcLUj4IC9PZYUyJ3DdGGHRII3E/kHJranLOUFLP8Aj6efGTjTV
-hVpZ39yVfnJ20rHYQTBL/fnPHbpQSjoLVocFz6OrIYFkJqCUI737JKnqC6LEqCT5
-V60/lUGmIv486RNvmB+rfIFZ71IiNGwL0QibfUwX83MvcfXEMUnGLWDHSt7wZRFy
-ieBPLvDt1BqHqneL9h3RFgr+kPbRI+oyMLmFWVpFr/8YHdhc/N57br9qHJ7lZL/g
-3kNflsW1ACa3Wj6AViq/XH8pwUcSoaMP6Hap4bahfPo0+2RkCra8puakqqZjhucd
-sQAeupjWZ3oRKIFXurmT
-=tMEt
+iQIcBAEBCAAGBQJaK+p0AAoJEKMhGofXrP4jwK0P/AnXsRR7I/ox0cfau8kBde0t
+oop+YFEOQl9JXUmarQF9bjFrwAJNtKY3ZAbJ+slM1uwfI4Uab5+3VoHCcLM+k94a
+zqDq12fNH4yqrr6f660y0zl4lOEzFF/PZvANA6odLypC0IEHDn7Hxp0eNnOSeWtI
+Et51GRy5FXMuSBfJkVw2tAJG9/w/0NsXB1eySV+KtimSw/lj6nzAOhKdnJy+HPyM
+TmtivFlcG/BmJ2GbCathTLQm0hda2utjETBd2MkA/DH2gMqFO/RTw0boMavA34gj
+2eyZsWl3/eoRwUUitDpEwFaHYchgRSVJYcCB1KKbdttLmvkazWFgncLgkcxbthmW
+hyQHrXc4dR4zxq/tKi57U0kc5TvJbb+XNa/kbUH/IOziwURUBFDCsMgHlSjfglgH
+g5FT5qELHw7VdcfbRbQ2rkjC2x+dLRMIvwDbpe4wOWh6SqRkyjgu/wHU6lCS+BMn
+tGfEZRApIyLYqxX63TPpVfe51ip3/WLVV1A/oYLcdAIM2+EAVHMSTi2lW8HFsQaE
+lcqGiOmAQjoo9gyD+JPrpi+YhYftGlwXYRaBszYPFkHHQpGUQW0rtq1VNT+Bm+sw
+j9WkNBybEH8aQuhEFqsAg5A/KZYiasAFMhzfB3USCARtyYCvrljm32DKBEuTAbIw
+cWxWP72hmv80b2U2vILr
+=9/rM
 -----END PGP SIGNATURE-----
