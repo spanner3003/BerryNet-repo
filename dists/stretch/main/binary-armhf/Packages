@@ -96,3 +96,19 @@ MD5sum: e618ecc02cfe254660c4e7880abdaec6
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
+Package: tinyyolo-movidius
+Version: 1
+Architecture: all
+Maintainer: unknown <pi@raspberrypi>
+Installed-Size: 88087
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/t/tinyyolo-movidius/tinyyolo-movidius_1_all.deb
+Size: 80520478
+SHA256: b0652fede0f8b27cf043b02539b145eb327bb8706a5f5bd3454053707326c168
+SHA1: d77d10aad5697b3c7cd3d63acd6fa3c68a561bc3
+MD5sum: eab4bae02a2392e53ad59e57a276af0c
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+

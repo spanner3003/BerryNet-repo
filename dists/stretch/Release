@@ -2,19 +2,19 @@ Origin: github.com/DT42/BerryNet-repo
 Label: github.com/DT42/BerryNet-repo
 Suite: stable
 Codename: stretch
-Date: Sat, 09 Dec 2017 13:51:45 UTC
+Date: Sat, 16 Dec 2017 14:36:05 UTC
 Architectures: armhf
 Components: main
 Description: BerryNet package repository
 MD5Sum:
- 1c2259eee760b5ca5676cf58ddc5e97e 3702 main/binary-armhf/Packages
- 12c4ec5d66cfa0c7b4add7b39fb1ace6 1211 main/binary-armhf/Packages.gz
+ d37502b0e23d86da5171a0cbd0be0c12 4245 main/binary-armhf/Packages
+ acfb502aa0617d4583e45d5a4c24507c 1357 main/binary-armhf/Packages.gz
  1a537e9111a97370ecd1ec97a543cf07 168 main/binary-armhf/Release
 SHA1:
- 8e1d34f819a87ce265f65a354e88b461a11cd9a4 3702 main/binary-armhf/Packages
- cc94bd2cea52a9afacb9685116ac4d5c531e8e79 1211 main/binary-armhf/Packages.gz
+ 5a79c23a49ae59987bde89f2b0442a5dc032a8be 4245 main/binary-armhf/Packages
+ 9586835a3b6773db4725e87cdf1f6a273a5ed507 1357 main/binary-armhf/Packages.gz
  b34f05ad4d5c7c35717104d7414a962d3002ca67 168 main/binary-armhf/Release
 SHA256:
- e63967425b414c0456e44dc2d1a569cefbf45d2db25bf4a623feac8c1d51e0a6 3702 main/binary-armhf/Packages
- 84728658e83eecf67546c3697f460fa5cd5a1f13bd927d67b6633ef03a567025 1211 main/binary-armhf/Packages.gz
+ f40ce3b66258dbe05021a2801a21133a8fb088cc9bdef2537abb1838cb84a624 4245 main/binary-armhf/Packages
+ 6f6b0559c5559b3dd11d9b8e3e0198b723a49f9844d8b19feaea750fa31e3b32 1357 main/binary-armhf/Packages.gz
  122d21fc447023e4d06f11864e476d4593e4ca4a7a14bf6069570c8e0648a738 168 main/binary-armhf/Release
